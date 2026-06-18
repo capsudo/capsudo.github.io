@@ -1,0 +1,155 @@
+{
+  "social": {
+    "githubUsername": "ethan",
+    "redditUsername": "ethan",
+    "twitterUsername": "ethan"
+  },
+  "technologies": {
+    "frameworks": [
+      {
+        "name": "Astro",
+        "slug": "astro",
+        "iconUrl": "https://cdn.simpleicons.org/astro/BC52EE",
+        "twitterUsername": "astrodotbuild",
+        "githubUsername": "withastro",
+        "redditUsername": "astrojs",
+        "githubProjectUrl": "https://github.com/withastro/astro",
+        "sortOrder": 5
+      },
+      {
+        "name": "Flutter",
+        "slug": "flutter",
+        "iconUrl": "https://cdn.simpleicons.org/flutter/02569B",
+        "twitterUsername": "flutterdev",
+        "githubUsername": "flutter",
+        "redditUsername": "FlutterDev",
+        "githubProjectUrl": "https://github.com/flutter/flutter",
+        "sortOrder": 10
+      },
+      {
+        "name": "Expo",
+        "slug": "expo",
+        "iconUrl": "https://cdn.simpleicons.org/expo/000020",
+        "twitterUsername": "expo",
+        "githubUsername": "expo",
+        "redditUsername": "expo",
+        "githubProjectUrl": "https://github.com/expo/expo",
+        "sortOrder": 20
+      },
+      {
+        "name": "Express.js",
+        "slug": "expressjs",
+        "iconUrl": "https://cdn.simpleicons.org/express/000000",
+        "twitterUsername": "expressjs",
+        "githubUsername": "expressjs",
+        "redditUsername": "node",
+        "githubProjectUrl": "https://github.com/expressjs/express",
+        "sortOrder": 30
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "iconUrl": "https://cdn.simpleicons.org/react/087EA4",
+        "twitterUsername": "reactjs",
+        "githubUsername": "facebook",
+        "redditUsername": "reactjs",
+        "githubProjectUrl": "https://github.com/facebook/react",
+        "sortOrder": 40
+      },
+      {
+        "name": "Redux",
+        "slug": "redux",
+        "iconUrl": "https://cdn.simpleicons.org/redux/764ABC",
+        "twitterUsername": "reduxjs",
+        "githubUsername": "reduxjs",
+        "redditUsername": "reactjs",
+        "githubProjectUrl": "https://github.com/reduxjs/redux",
+        "sortOrder": 50
+      },
+      {
+        "name": "Firebase",
+        "slug": "firebase",
+        "iconUrl": "https://cdn.simpleicons.org/firebase/FFCA28",
+        "twitterUsername": "firebase",
+        "githubUsername": "firebase",
+        "redditUsername": "Firebase",
+        "githubProjectUrl": "https://github.com/firebase/firebase-js-sdk",
+        "sortOrder": 60
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript / JavaScript",
+        "slug": "typescript-javascript",
+        "iconUrl": "https://cdn.simpleicons.org/typescript/3178C6",
+        "twitterUsername": "typescript",
+        "githubUsername": "microsoft",
+        "redditUsername": "typescript",
+        "githubProjectUrl": "https://github.com/microsoft/TypeScript",
+        "sortOrder": 10
+      },
+      {
+        "name": "Dart",
+        "slug": "dart",
+        "iconUrl": "https://cdn.simpleicons.org/dart/0175C2",
+        "twitterUsername": "dart_lang",
+        "githubUsername": "dart-lang",
+        "redditUsername": "dartlang",
+        "githubProjectUrl": "https://github.com/dart-lang/sdk",
+        "sortOrder": 20
+      },
+      {
+        "name": "Rust",
+        "slug": "rust",
+        "iconUrl": "https://cdn.simpleicons.org/rust/000000",
+        "twitterUsername": "rustlang",
+        "githubUsername": "rust-lang",
+        "redditUsername": "rust",
+        "githubProjectUrl": "https://github.com/rust-lang/rust",
+        "sortOrder": 30
+      },
+      {
+        "name": "Python",
+        "slug": "python",
+        "iconUrl": "https://cdn.simpleicons.org/python/3776AB",
+        "twitterUsername": "ThePSF",
+        "githubUsername": "python",
+        "redditUsername": "Python",
+        "githubProjectUrl": "https://github.com/python/cpython",
+        "sortOrder": 40
+      }
+    ],
+    "stack": [
+      {
+        "name": "NixOS",
+        "slug": "nixos",
+        "iconUrl": "https://cdn.simpleicons.org/nixos/5277C3",
+        "twitterUsername": "nixos_org",
+        "githubUsername": "NixOS",
+        "redditUsername": "NixOS",
+        "githubProjectUrl": "https://github.com/NixOS/nixpkgs",
+        "sortOrder": 10
+      },
+      {
+        "name": "GNOME",
+        "slug": "gnome",
+        "iconUrl": "https://cdn.simpleicons.org/gnome/4A86CF",
+        "twitterUsername": "gnome",
+        "githubUsername": "GNOME",
+        "redditUsername": "gnome",
+        "githubProjectUrl": "https://github.com/GNOME",
+        "sortOrder": 20
+      },
+      {
+        "name": "VS Code",
+        "slug": "vscode",
+        "iconUrl": "https://cdn.simpleicons.org/visualstudiocode/007ACC",
+        "twitterUsername": "code",
+        "githubUsername": "microsoft",
+        "redditUsername": "vscode",
+        "githubProjectUrl": "https://github.com/microsoft/vscode",
+        "sortOrder": 30
+      }
+    ]
+  }
+}
