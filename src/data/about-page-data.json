@@ -1,18 +1,4 @@
 {
-  "socials": {
-    "github": {
-      "username": "ethan",
-      "name": "Ethan"
-    },
-    "reddit": {
-      "username": "ethan",
-      "name": "Ethan"
-    },
-    "twitter": {
-      "username": "ethan",
-      "name": "Ethan"
-    }
-  },
   "technologies": {
     "frameworks": [
       {
@@ -178,7 +164,7 @@
       {
         "name": "VS Code",
         "slug": "vscode",
-        "iconUrl": "https://cdn.simpleicons.org/visualstudiocode/007ACC",
+        "iconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg",
         "twitterUsername": "code",
         "githubUsername": "microsoft",
         "redditUsername": "vscode",
