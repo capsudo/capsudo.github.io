@@ -162,6 +162,16 @@
         "level": 3
       },
       {
+        "name": "scikit-learn",
+        "slug": "scikit-learn",
+        "iconUrl": "https://cdn.simpleicons.org/scikitlearn",
+        "twitterUsername": "scikit_learn",
+        "githubUsername": "scikit-learn",
+        "githubProjectUrl": "https://github.com/scikit-learn/scikit-learn",
+        "featured": false,
+        "level": 0
+      },
+      {
         "name": "VS Code",
         "slug": "vscode",
         "iconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg",
