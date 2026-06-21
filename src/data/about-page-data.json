@@ -136,7 +136,7 @@
         "level": 3
       }
     ],
-    "stack": [
+    "tools": [
       {
         "name": "NixOS",
         "slug": "nixos",
